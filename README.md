@@ -1,6 +1,6 @@
-# Pokémon Gold and Silver Debug
+# Pokémon Gold and Silver Debug JP Translation
 
-This is a disassembly of Pokémon Gold (and Silver*) Debug.
+This is a disassembly of Pokémon Gold (and Silver*) Debug JP, translated into English.
 
 It builds the following ROM:
 
